@@ -110,8 +110,3 @@ Float_t relerror (Float_t lepPt, Float_t Eta){
 	return (deltas*deltas)/(s*s);
 	
 }
-int main(){
-	cout<<(relerror(157, 1.5))<<endl;
-}
-*/
-
